@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IvaCapdevila
+- 👋 Hi, I’m @RimorPD
 - 👀 I’m interested in Data Science, some web programming languages, learning ai 
 - 🌱 I’m currently learning languages of my interest
 - 💞️ I’m looking to collaborate on  science projects, marketing or apps.
